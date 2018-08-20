@@ -1,6 +1,6 @@
 # baby_names
 
-A new Flutter application.
+A new Flutter application integrated with firebase.
 
 ## Getting Started
 
